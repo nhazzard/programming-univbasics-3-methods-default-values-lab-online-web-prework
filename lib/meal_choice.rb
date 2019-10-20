@@ -1,2 +1,2 @@
-def meal_choice(broccoli, macaroni)# Your code here
+def meal_choice
 puts "what a nutritious meal!"
