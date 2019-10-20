@@ -1,5 +1,5 @@
 def meal_choice
-puts "What a nutritious meal!"
+print "What a nutritious meal!"
 end
 
 
